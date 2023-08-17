@@ -1,0 +1,32 @@
+Salut Antoine! Ici L'equide de Jeremie, Alexandra et Diego.
+
+
+Questions:
+
+1.	Quel format de données avez-vous utilisé pour votre projet?
+
+	Format  type JSON
+
+2.	Pourquoi ce format?
+
+	Le API nous envoie l'information dans ce format.
+	
+3.	Quel type d’architecture avez-vous utilisé?
+
+	Une architecture client-serveur.
+
+4.	Qu’est-ce que cette architecture apporte du côté non fonctionnel?
+
+	L'inoformation est tres petite et donc en format JSON, c'est facile de travailler avec (de la traduire dans unity)
+
+5.	Lien de votre répertoire Git :
+
+	https://github.com/itsDiiMS/SDK_RemiseTP3
+
+
+Aussi, le projet Unity est le même que celui de programmation. C'est un jeu où il faut s'echapper d'un labyrinthe. 
+L'interface où s'affiche le API se trouve sur un "Clipboard" au début du jeu. Un bouton "New joke" est disponible pour rappeler le API (Afficher une nouvelle joke).
+On a décidé de remettre le projhet Unity sur OneDivre cal celui ci est tres lourd pour le repos de git.
+Voici le lien pour le projetUnity:
+
+https://agrasset-my.sharepoint.com/:u:/g/personal/2315080_grasset_qc_ca/EZhbORr00YJLvX4arxXSmyEBKZyhhiujX48GLXxYqwqanw?e=fz0hVH
